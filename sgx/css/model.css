@@ -1,0 +1,44 @@
+.titlestyle{
+	margin-top: 40px;
+	color: firebrick
+	
+}
+.pre1title{
+	margin-left: 50px;
+	color: black
+}
+.pretitle{
+	margin-right: 250px;
+	text-align: right;
+}
+body{
+	background-image: url(../image/pjbg1.jpg);
+	background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+a:link{
+	color: red;
+}
+a:hover{
+	color: blue;
+}
+.tt{
+	font-size=100px;
+	margin-left: 130px;
+	color: saddlebrown;
+}
+.div1{
+	opacity: 0.68;
+	background: wheat;
+	width: 800px;
+}
+p{
+	margin-left: 30px;
+	color: brown;
+}
+p.ti{
+	
+	color: blue;
+	font-size: larger;
+}
